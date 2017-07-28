@@ -10,7 +10,7 @@ import Footer from './Footer'
 
 ReactDOM.render(
    //props of components
-    <App cat={4} jump="I am prop too from index"/>,
+    <App cat={4} jump="I am from index"/>,
     document.getElementById('container')
 
 );
